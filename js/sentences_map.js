@@ -1,4 +1,4 @@
-{
+window.SENTENCES_AUDIO_MAP = {
   "Letter Cc. Sound c. Find the word that starts with Cc.": "assets/audios/sentences/frog_prompt_cc.mp3",
   "Letter Cc. Sound /c/. Find the word that starts with Cc.": "assets/audios/sentences/frog_prompt_cc.mp3",
   "Letter Cc. Find the word that starts with Cc": "assets/audios/sentences/frog_intro_cc.mp3",
@@ -18,4 +18,4 @@
   "The big green frog can swim and jump. What can the green frog do in the pond?": "assets/audios/sentences/frog_act_286cb9b6.mp3",
   "What makes a loud beat? Listen to the loud drum beat in music class.": "assets/audios/sentences/frog_act_ecef9351.mp3",
   "Listen to the loud drum beat in music class. What makes a loud beat?": "assets/audios/sentences/frog_act_ecef9351.mp3"
-}
+};
